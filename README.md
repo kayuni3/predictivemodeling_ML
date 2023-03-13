@@ -12,7 +12,7 @@ Once my dataset was imported into my Databricks notebooks, I created a dataframe
 
 For example, I  
 * Removed patients that were no longer with us using their discharge id 
-* created additional columns to make age and number of previous readmissions integar values instead of strings
+* Created additional columns to make age and number of previous readmissions integar values instead of strings
 
 I then created tables for my analysis to find possible indicators using Pyspark SQL functions with basic SQL syntax. Once my tables were created I was able to create visualizations to identify trends. 
 
