@@ -18,10 +18,14 @@ I then created tables for my analysis to find possible indicators using Pyspark 
 
 ## Analysis
 Before creating my tables, I need to find what factors might influence readmission. The factors were:
-*race
-*gender
-*age
+*race  
+
+*gender 
+
+*age 
+
 *number of diagnoses 
+
 *number of medications
 
 
