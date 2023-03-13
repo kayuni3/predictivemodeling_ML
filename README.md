@@ -11,8 +11,8 @@ I used a [dataset](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospi
 Once my dataset was imported into my Databricks notebooks, I created a dataframe and cleansed my data by dropping unneeded columns and removing rows that met certain conditions. 
 
 For example, I  
-*Removed patients that were no longer with us using their discharge id 
-*created additional columns to make age and number of previous readmissions integar values instead of strings
+* Removed patients that were no longer with us using their discharge id 
+* created additional columns to make age and number of previous readmissions integar values instead of strings
 
 I then created tables for my analysis to find possible indicators using Pyspark SQL functions with basic SQL syntax. Once my tables were created I was able to create visualizations to identify trends. 
 
