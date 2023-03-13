@@ -14,7 +14,7 @@ For example, I
 * Removed patients that were no longer with us using their discharge id 
 * Created additional columns to make age and number of previous readmissions integar values instead of strings
 
-I then created tables for my analysis to find possible indicators using Pyspark SQL functions with basic SQL syntax. Once my tables were created I was able to create visualizations to identify trends. 
+Then, I created tables for my analysis to find possible indicators using Pyspark SQL functions with basic SQL syntax. Once my tables were created I was able to create visualizations to identify trends. 
 
 ## Analysis
 Before creating my tables, I need to find what factors might influence readmission. The factors were:
